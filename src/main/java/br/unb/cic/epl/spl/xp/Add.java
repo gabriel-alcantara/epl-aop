@@ -1,4 +1,4 @@
-package br.unb.cic.epl.spl.add;
+package br.unb.cic.epl.spl.xp;
 
 import br.unb.cic.epl.spl.Expression;
 
